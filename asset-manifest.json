@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/crud-movies/static/css/main.58bbef8d.chunk.css",
-    "main.js": "/crud-movies/static/js/main.f8e3291c.chunk.js",
-    "main.js.map": "/crud-movies/static/js/main.f8e3291c.chunk.js.map",
+    "main.js": "/crud-movies/static/js/main.f13f74e9.chunk.js",
+    "main.js.map": "/crud-movies/static/js/main.f13f74e9.chunk.js.map",
     "runtime-main.js": "/crud-movies/static/js/runtime-main.5e98a9fd.js",
     "runtime-main.js.map": "/crud-movies/static/js/runtime-main.5e98a9fd.js.map",
-    "static/js/2.9a58c218.chunk.js": "/crud-movies/static/js/2.9a58c218.chunk.js",
-    "static/js/2.9a58c218.chunk.js.map": "/crud-movies/static/js/2.9a58c218.chunk.js.map",
+    "static/js/2.ef0c12aa.chunk.js": "/crud-movies/static/js/2.ef0c12aa.chunk.js",
+    "static/js/2.ef0c12aa.chunk.js.map": "/crud-movies/static/js/2.ef0c12aa.chunk.js.map",
     "index.html": "/crud-movies/index.html",
-    "precache-manifest.c2e260d3d16b3d58fd53e5dac3894320.js": "/crud-movies/precache-manifest.c2e260d3d16b3d58fd53e5dac3894320.js",
+    "precache-manifest.18d3786a8ed6add059b8fa8f819d311e.js": "/crud-movies/precache-manifest.18d3786a8ed6add059b8fa8f819d311e.js",
     "service-worker.js": "/crud-movies/service-worker.js",
     "static/css/main.58bbef8d.chunk.css.map": "/crud-movies/static/css/main.58bbef8d.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.5e98a9fd.js",
-    "static/js/2.9a58c218.chunk.js",
+    "static/js/2.ef0c12aa.chunk.js",
     "static/css/main.58bbef8d.chunk.css",
-    "static/js/main.f8e3291c.chunk.js"
+    "static/js/main.f13f74e9.chunk.js"
   ]
 }
