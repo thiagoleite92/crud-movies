@@ -12,10 +12,10 @@ class App extends React.Component {
     return (
       <BrowserRouter>
         <Switch>
-          <Route exact path="/" component={ MovieList } />
-          <Route exact path="/movies/new" component={ NewMovie } />
-          <Route exact path="/movies/:id" component={ MovieDetails } />
-          <Route exact path="/movies/:id/edit" component={ EditMovie } />
+          <Route exact path="/https://thiagoleite92.github.io/crud-movies/" component={ MovieList } />
+          <Route exact path="/https://thiagoleite92.github.io/crud-movies/movies/new" component={ NewMovie } />
+          <Route exact path="/https://thiagoleite92.github.io/crud-movies/movies/:id" component={ MovieDetails } />
+          <Route exact path="/https://thiagoleite92.github.io/crud-movies/movies/:id/edit" component={ EditMovie } />
           <Route component={ NotFound } />
         </Switch>
       </BrowserRouter>
