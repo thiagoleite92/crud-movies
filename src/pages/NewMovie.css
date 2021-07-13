@@ -1,0 +1,56 @@
+.new-movie-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 10px auto;
+  width: 50%;
+}
+
+.new-movie-form {
+  align-items: center;
+  background-color: rgb(246, 241, 241);
+  border: 5px solid rgb(172, 169, 169);
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  justify-content: space-evenly;
+  margin: 50px auto;
+  width: 300px;
+}
+
+.new-movie-form input {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 200px;
+}
+
+.new-movie-form select {
+  margin-left: 20px;
+}
+
+
+.new-movie-form textarea {
+  height: 200px;
+  resize: none;
+  width: 200px;
+}
+
+.new-movie-form :nth-child( 5 ) input {
+  width: 200px;
+}
+
+.new-movie-form button {
+  align-self: center;
+  background-color: blanchedalmond;
+  border-radius: 25px;
+  color: black;
+  padding: 5px 25px;
+  text-decoration: none;
+}
+
+.new-movie-form button:hover {
+  background-color: rgb(218, 218, 218);
+  transform: scale(1.1);
+  transition: ease-in-out 0.1s;
+}

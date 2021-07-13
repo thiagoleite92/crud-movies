@@ -1,0 +1,23 @@
+.movie-list {
+  align-content: center;
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-around;
+  margin: 5px auto;
+  width: 500px;
+}
+
+.movie-list a {
+  align-self: center;
+  background-color: blanchedalmond;
+  border-radius: 25px;
+  color: black;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.movie-list a:hover {
+  background-color: rgb(218, 218, 218);
+  transform: scale(1.1);
+  transition: ease-in-out 0.2s;
+}
