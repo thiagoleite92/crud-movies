@@ -10,7 +10,7 @@ import './App.css';
 class App extends React.Component {
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename={ process.env.PUBLIC_URL}>
         <Switch>
           <Route exact path="/https://thiagoleite92.github.io/crud-movies/" component={ MovieList } />
           <Route exact path="/https://thiagoleite92.github.io/crud-movies/movies/new" component={ NewMovie } />
